@@ -16,31 +16,258 @@ Textbook
 
 Jensen, Finn B., William A. Kuperman, Michael B. Porter, and Henrik Schmidt. _Computational Ocean Acoustics_. College Park, Maryland: American Institute of Physics, 1994. ISBN: 1563962098.
 
-| Lec # | TOPIC |
-| --- | --- |
-| 1 | Introduction |
-| 2 | The Acoustic Wave Equation. Integral Transforms. The Helmholtz Equation. PS1 out. |
-| 3 | Sources in Unbounded and Bounded Media. Green's Functions. Green's Theorem. |
-| 4 | Reflection and Transmission. Integral Transform Solution. Source in Half-spaces. |
-| 5 | Ideal Waveguides. The Pekeris Waveguide. |
-| 6 | Wavenumber Integration  {{< br >}}  {{< br >}}Layer Solutions and Interface Conditions. PS1 due. PS2 out. |
-| 7 | Wavenumber Integration  {{< br >}}  {{< br >}}Global Matrix Solution. |
-| 8 | Wavenumber Integration  {{< br >}}  {{< br >}}Propagator Matrix and Invariant Embedding Solution. |
-| 9 | Wavenumber Integration  {{< br >}}  {{< br >}}Numerical Evaluation of Wavenumber Integral. Aliasing and Wrap-around. |
-| 10 | Wavenumber Integration  {{< br >}}  {{< br >}}Numerical Methods Used in Wavenumber Integration. PS2 due. PS3 out. |
-| 11 | Normal Modes  {{< br >}}  {{< br >}}Mathematical Derivation. Model Expansion of the Green's Function. |
-| 12 | Normal Modes  {{< br >}}  {{< br >}}Isovelocity Problem. Generalized Derivation. |
-| 13 | Normal Modes  {{< br >}}  {{< br >}}Munk Profile. Numerical Approaches. PS3 due. PS4 out. |
-| 14 | Normal Modes  {{< br >}}  {{< br >}}Numerical Approaches (cont.). |
-| 15 | Normal Modes  {{< br >}}  {{< br >}}Numerical Procedures. |
-| 16 | Normal Modes  {{< br >}}  {{< br >}}Range-dependent Environment. Coupled Modes. |
-| 17 | Normal Modes  {{< br >}}  {{< br >}}3-D Environment. PS4 due. PS5 out. |
-| 18 | Parabolic Equation  {{< br >}}  {{< br >}}Derivation of Parabolic Equations. |
-| 19 | Parabolic Equation  {{< br >}}  {{< br >}}Starting Fields. |
-| 20 | Parabolic Equation  {{< br >}}  {{< br >}}Energy Conservation Problem. Solutions by FDs FEs. PS5 due. PS6 out. |
-| 21 | Doppler Shift in Waveguide. |
-| 22 | Time Series Simulation. Signal and Noise. |
-| No Lec.: PS6 due. |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPIC
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Acoustic Wave Equation. Integral Transforms. The Helmholtz Equation. PS1 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sources in Unbounded and Bounded Media. Green's Functions. Green's Theorem.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection and Transmission. Integral Transform Solution. Source in Half-spaces.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal Waveguides. The Pekeris Waveguide.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Wavenumber Integration  
+  
+Layer Solutions and Interface Conditions. PS1 due. PS2 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Wavenumber Integration  
+  
+Global Matrix Solution.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Wavenumber Integration  
+  
+Propagator Matrix and Invariant Embedding Solution.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Wavenumber Integration  
+  
+Numerical Evaluation of Wavenumber Integral. Aliasing and Wrap-around.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Wavenumber Integration  
+  
+Numerical Methods Used in Wavenumber Integration. PS2 due. PS3 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Mathematical Derivation. Model Expansion of the Green's Function.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Isovelocity Problem. Generalized Derivation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Munk Profile. Numerical Approaches. PS3 due. PS4 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Numerical Approaches (cont.).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Numerical Procedures.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+Range-dependent Environment. Coupled Modes.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Modes  
+  
+3-D Environment. PS4 due. PS5 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Parabolic Equation  
+  
+Derivation of Parabolic Equations.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Parabolic Equation  
+  
+Starting Fields.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Parabolic Equation  
+  
+Energy Conservation Problem. Solutions by FDs FEs. PS5 due. PS6 out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Doppler Shift in Waveguide.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Time Series Simulation. Signal and Noise.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+No Lec.: PS6 due.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments and Quizzes
 -----------------------
